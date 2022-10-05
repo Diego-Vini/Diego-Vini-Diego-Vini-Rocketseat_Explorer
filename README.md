@@ -10,9 +10,9 @@
 
 - CSS
 
-  Fontes
-  Cores
-  Posicionamento
+  - Fontes
+  - Cores
+  - Posicionamento
 
 02-Projeto_Html_Css é o segundo projeto do curso onde demos continuidade a conceitos básicos de HTML e CSS 
 
